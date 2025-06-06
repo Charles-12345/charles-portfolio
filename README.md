@@ -1,23 +1,3 @@
-# charles-portfolio
-sir-charles-portfolio/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── 📁 powerbi-dashboards/
-│   └── README.md
-│
-├── 📁 python-projects/
-│   └── README.md
-│
-├── 📁 mel-frameworks/
-│   └── README.md
-│
-└── 📁 datasets/
-    └── sample-datasets/
-        ├── youth-survey.csv
-        └── conflict-zones.csv
 
 # 📊 Charles Portfolio
 
