@@ -101,7 +101,7 @@ This folder hosts templates and tools I developed and used in M&E roles:
 
 | Course Title                                                       | Institution              | Date         | View Link                                                                              |
 | ------------------------------------------------------------------ | ------------------------ | ------------ | -------------------------------------------------------------------------------------- |
-| Introduction to Data Analytics                                     | IBM                      | Sep 25, 2020 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%2052PT6HEPVELR.pdf) |
+| Introduction to Data Analytics                                     | IBM                      | Sep 25, 2020 | [[View Certificate]](https://drive.google.com/file/d/19C94tPmjnSWEYm_ShbODlgSoA5v_p3u6/view?usp=drive_link)(sandbox:/mnt/data/certifications/53644_Coursera%2052PT6HEPVELR.pdf) |
 | Surveillance Systems: Analysis, Dissemination, and Special Systems | Johns Hopkins University | Jan 5, 2021  | [[View Certificate]](https://drive.google.com/file/d/1HGJxDUkJmlJ1NZiUAIxjLNnuJVOeMSfQ/view?usp=drive_link)(sandbox:/mnt/data/certifications/53644_Coursera%208VP3NLGUFPS5.pdf) |
 | Databases and SQL for Data Science with Python                     | IBM                      | Oct 12, 2020 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20FCDX4S26YP9Z.pdf) |
 | Surveillance Systems: The Building Blocks                          | Johns Hopkins University | Jan 1, 2021  | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20H8PKGGTNSJCG.pdf) |
