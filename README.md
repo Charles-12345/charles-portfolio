@@ -96,4 +96,13 @@ This folder hosts templates and tools I developed and used in M&E roles:
 
 📁 Bonus: Includes guides for writing indicators and M&E plans.
 
----
+📘 Coursera Certifications
+Course Title	Institution	Date	View Link
+Introduction to Data Analytics	IBM	Sep 25, 2020	View Certificate
+Surveillance Systems: Analysis, Dissemination, and Special Systems	Johns Hopkins University	Jan 5, 2021	View Certificate
+Databases and SQL for Data Science with Python	IBM	Oct 12, 2020	View Certificate
+Surveillance Systems: The Building Blocks	Johns Hopkins University	Jan 1, 2021	View Certificate
+The Data Science of Health Informatics	Johns Hopkins University	Jan 20, 2021	View Certificate
+Data and Health Indicators in Public Health Practice	Johns Hopkins University	Dec 30, 2020	View Certificate
+
+
