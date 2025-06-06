@@ -40,7 +40,7 @@ Visual storytelling for USAID-funded programs and community-based surveys.
 
 ### 🔹 Python Projects
 Scripts and notebooks for data cleaning, analysis, and automation in MEL.  
-👉 [`python-projects`](./python-projects)
+👉 [`python-projects`](https://colab.research.google.com/drive/1_UkB3e8xH3QMOWYW7uSc5TGFRuZq40Jj)
 
 ### 🔹 MEL Frameworks
 Logframes, indicator matrices, and custom tools for proposal writing and project tracking.  
