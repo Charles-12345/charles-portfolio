@@ -105,4 +105,12 @@ Surveillance Systems: The Building Blocks	Johns Hopkins University	Jan 1, 2021	V
 The Data Science of Health Informatics	Johns Hopkins University	Jan 20, 2021	View Certificate
 Data and Health Indicators in Public Health Practice	Johns Hopkins University	Dec 30, 2020	View Certificate
 
+| Course Title                                                       | Institution              | Date         | View Link                                                                              |
+| ------------------------------------------------------------------ | ------------------------ | ------------ | -------------------------------------------------------------------------------------- |
+| Introduction to Data Analytics                                     | IBM                      | Sep 25, 2020 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%2052PT6HEPVELR.pdf) |
+| Surveillance Systems: Analysis, Dissemination, and Special Systems | Johns Hopkins University | Jan 5, 2021  | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%208VP3NLGUFPS5.pdf) |
+| Databases and SQL for Data Science with Python                     | IBM                      | Oct 12, 2020 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20FCDX4S26YP9Z.pdf) |
+| Surveillance Systems: The Building Blocks                          | Johns Hopkins University | Jan 1, 2021  | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20H8PKGGTNSJCG.pdf) |
+| The Data Science of Health Informatics                             | Johns Hopkins University | Jan 20, 2021 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20V5EAYV85XAX6.pdf) |
+| Data and Health Indicators in Public Health Practice               | Johns Hopkins University | Dec 30, 2020 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20W98CVJ5T8EKG.pdf) |
 
