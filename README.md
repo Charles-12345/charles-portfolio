@@ -97,13 +97,7 @@ This folder hosts templates and tools I developed and used in M&E roles:
 📁 Bonus: Includes guides for writing indicators and M&E plans.
 
 📘 Coursera Certifications
-Course Title	Institution	Date	View Link
-Introduction to Data Analytics	IBM	Sep 25, 2020	View Certificate
-Surveillance Systems: Analysis, Dissemination, and Special Systems	Johns Hopkins University	Jan 5, 2021	View Certificate
-Databases and SQL for Data Science with Python	IBM	Oct 12, 2020	View Certificate
-Surveillance Systems: The Building Blocks	Johns Hopkins University	Jan 1, 2021	View Certificate
-The Data Science of Health Informatics	Johns Hopkins University	Jan 20, 2021	View Certificate
-Data and Health Indicators in Public Health Practice	Johns Hopkins University	Dec 30, 2020	View Certificate
+
 
 | Course Title                                                       | Institution              | Date         | View Link                                                                              |
 | ------------------------------------------------------------------ | ------------------------ | ------------ | -------------------------------------------------------------------------------------- |
@@ -113,4 +107,24 @@ Data and Health Indicators in Public Health Practice	Johns Hopkins University	De
 | Surveillance Systems: The Building Blocks                          | Johns Hopkins University | Jan 1, 2021  | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20H8PKGGTNSJCG.pdf) |
 | The Data Science of Health Informatics                             | Johns Hopkins University | Jan 20, 2021 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20V5EAYV85XAX6.pdf) |
 | Data and Health Indicators in Public Health Practice               | Johns Hopkins University | Dec 30, 2020 | [View Certificate](sandbox:/mnt/data/certifications/53644_Coursera%20W98CVJ5T8EKG.pdf) |
+
+| Course Title                                                 | Type        | Date        | View Link                                                                                |
+| ------------------------------------------------------------ | ----------- | ----------- | ---------------------------------------------------------------------------------------- |
+| Fundamentals of Systems Design and Implementation            | Certificate | 1 Aug 2020  | [View Certificate](sandbox:/mnt/data/certifications/Alison_Certificate-1602-3422182.pdf) |
+| Designing and Implementing Monitoring and Evaluation Systems | Certificate | 1 Aug 2020  | [View Certificate](sandbox:/mnt/data/certifications/Alison_Certificate-1734-3422182.pdf) |
+| IT Management - Software and Databases                       | Certificate | 24 Jun 2020 | [View Certificate](sandbox:/mnt/data/certifications/Alison_Certificate-1758-3422182.pdf) |
+| Diploma in Information Technology Management                 | Diploma     | 27 Jun 2020 | [View Diploma](sandbox:/mnt/data/certifications/Alison_Diploma-1247-3422182.pdf)         |
+| Diploma in Project Management                                | Diploma     | 30 Jun 2020 | [View Diploma](sandbox:/mnt/data/certifications/Alison_Diploma-1266-3422182.pdf)         |
+
+| Course Title                           | Date         | View Link                                                                                                      |
+| -------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------- |
+| From Data Collection to Data Use       | Jun 29, 2022 | [View Certificate](sandbox:/mnt/data/certifications/FHI360%20Certificate%20_%20Philanthropy%20University.pdf)  |
+| Planning for Monitoring and Evaluation | Feb 7, 2022  | [View Certificate](sandbox:/mnt/data/certifications/FHI360%20Certificate%20_%20Philanthropy%20University2.pdf) |
+
+| Title                                | Description                                        | Date        | View Link                                                                                              |
+| ------------------------------------ | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------ |
+| Certificate of Service               | AFENET, Country Data Manager (DRC)                 | 15 May 2023 | [View](sandbox:/mnt/data/certifications/HR%20CERTIFICATE%20OF%20SERVICE%202023-AFENET-6%20%281%29.pdf) |
+| Letter of Completion                 | MSc in Data Science – Guglielmo Marconi University | 12 Jul 2024 | [View](sandbox:/mnt/data/certifications/Letter_Of_Completion_Masters%20in%20Data%20Science.pdf)        |
+| Machine Learning Mastery Certificate | Unspecified Provider                               | 15 Jun 2022 | [View](sandbox:/mnt/data/certifications/MLMMasterCertificate%20%281%29.pdf)                            |
+| Recommendation Letter                | Education Development Center (EDC)                 | —           | [View](sandbox:/mnt/data/certifications/Recommendation%20Letter_%20EDC%5B1%5D.pdf)                     |
 
