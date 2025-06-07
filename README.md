@@ -123,8 +123,8 @@ This folder hosts templates and tools I developed and used in M&E roles:
 
 | Title                                | Description                                        | Date        | View Link                                                                                              |
 | ------------------------------------ | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------ |
-| Certificate of Service               | AFENET, Country Data Manager (DRC)                 | 15 May 2023 | [View](sandbox:/mnt/data/certifications/HR%20CERTIFICATE%20OF%20SERVICE%202023-AFENET-6%20%281%29.pdf) |
-| Letter of Completion                 | MSc in Data Science – Guglielmo Marconi University | 12 Jul 2024 | [View](sandbox:/mnt/data/certifications/Letter_Of_Completion_Masters%20in%20Data%20Science.pdf)        |
+| Certificate of Service               | AFENET, Country Data Manager (DRC)                 | 15 May 2023 | [[View]](https://drive.google.com/file/d/1hjaktvgaGMI2N3ujnYaCPwQqo8fcsvOF/view?usp=sharing)(sandbox:/mnt/data/certifications/HR%20CERTIFICATE%20OF%20SERVICE%202023-AFENET-6%20%281%29.pdf) |
+| Letter of Completion                 | MSc in Data Science – Guglielmo Marconi University | 12 Jul 2024 | [[View]](https://drive.google.com/file/d/1X1qegeWFYAaVTeVVSEbNPWKVtBc7lPSa/view?usp=sharing)(sandbox:/mnt/data/certifications/Letter_Of_Completion_Masters%20in%20Data%20Science.pdf)        |
 | Machine Learning Mastery Certificate | Unspecified Provider                               | 15 Jun 2022 | [View](sandbox:/mnt/data/certifications/MLMMasterCertificate%20%281%29.pdf)                            |
-| Recommendation Letter                | Education Development Center (EDC)                 | —           | [View](sandbox:/mnt/data/certifications/Recommendation%20Letter_%20EDC%5B1%5D.pdf)                     |
+| Recommendation Letter                | Education Development Center (EDC)                 | 1           | [[View]](https://drive.google.com/file/d/18HMq6_Uadywzg0KN5KO8UbWex5Jct1qG/view?usp=drive_link)(sandbox:/mnt/data/certifications/Recommendation%20Letter_%20EDC%5B1%5D.pdf)                     |
 
