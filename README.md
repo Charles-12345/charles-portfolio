@@ -110,9 +110,9 @@ This folder hosts templates and tools I developed and used in M&E roles:
 
 | Course Title                                                 | Type        | Date        | View Link                                                                                |
 | ------------------------------------------------------------ | ----------- | ----------- | ---------------------------------------------------------------------------------------- |
-| Fundamentals of Systems Design and Implementation            | Certificate | 1 Aug 2020  | [View Certificate](sandbox:/mnt/data/certifications/Alison_Certificate-1602-3422182.pdf) |
+| Fundamentals of Systems Design and Implementation            | Certificate | 1 Aug 2020  | [[View Certificate]](https://drive.google.com/file/d/1EX2FwSv8uLUriciBKPBvnNiO4FdqwBdD/view?usp=sharing)(sandbox:/mnt/data/certifications/Alison_Certificate-1602-3422182.pdf) |
 | Designing and Implementing Monitoring and Evaluation Systems | Certificate | 1 Aug 2020  | [[View Certificate]](https://drive.google.com/file/d/1sBbq3C7iyP8u4CklTqL9xt6ZKtbtYyFw/view?usp=sharing)(sandbox:/mnt/data/certifications/Alison_Certificate-1734-3422182.pdf) |
-| IT Management - Software and Databases                       | Certificate | 24 Jun 2020 | [View Certificate](sandbox:/mnt/data/certifications/Alison_Certificate-1758-3422182.pdf) |
+| IT Management - Software and Databases                       | Certificate | 24 Jun 2020 |[ [View Certificate]](https://drive.google.com/file/d/1k4AaeXA6GtubtS5AGx0z5pW8ltlEmvx4/view?usp=sharing)(sandbox:/mnt/data/certifications/Alison_Certificate-1758-3422182.pdf) |
 | Diploma in Information Technology Management                 | Diploma     | 27 Jun 2020 | [https://drive.google.com/file/d/1m46GpWZXM6XXhTWCEvPQY7cOuAtK0qlW/view?usp=sharingDiploma(sandbox:/mnt/data/certifications/Alison_Diploma-1247-3422182.pdf)         |
 | Diploma in Project Management                                | Diploma     | 30 Jun 2020 | [https://drive.google.com/file/d/19UNnFMccWIvrGY9ZsVBtdGVuCd_ZP2Ld/view?usp=sharingDiploma(sandbox:/mnt/data/certifications/Alison_Diploma-1266-3422182.pdf)         |
 
