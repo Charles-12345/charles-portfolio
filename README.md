@@ -118,8 +118,8 @@ This folder hosts templates and tools I developed and used in M&E roles:
 
 | Course Title                           | Date         | View Link                                                                                                      |
 | -------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------- |
-| From Data Collection to Data Use       | Jun 29, 2022 | [View Certificate](sandbox:/mnt/data/certifications/FHI360%20Certificate%20_%20Philanthropy%20University.pdf)  |
-| Planning for Monitoring and Evaluation | Feb 7, 2022  | [View Certificate](sandbox:/mnt/data/certifications/FHI360%20Certificate%20_%20Philanthropy%20University2.pdf) |
+| From Data Collection to Data Use       | Jun 29, 2022 | [[View Certificate]](https://drive.google.com/file/d/1n9RzTrqH5EDGwKUsFHXqMpLxYIzyi7Cx/view?usp=sharing)(sandbox:/mnt/data/certifications/FHI360%20Certificate%20_%20Philanthropy%20University.pdf)  |
+| Planning for Monitoring and Evaluation | Feb 7, 2022  | [[View Certificate]](https://drive.google.com/file/d/12tt7fxKjYFL6joXMJSuqYIxjAiAKbYph/view?usp=sharing)(sandbox:/mnt/data/certifications/FHI360%20Certificate%20_%20Philanthropy%20University2.pdf) |
 
 | Title                                | Description                                        | Date        | View Link                                                                                              |
 | ------------------------------------ | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------ |
