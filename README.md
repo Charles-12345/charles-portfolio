@@ -3,11 +3,13 @@
 
 Welcome to my professional data portfolio! This repository showcases my work in:
 
-- 🎯 Monitoring, Evaluation, and Learning (MEL)
-- 📊 Data Analysis and Visualization
-- 🧪 Python for Data Science
-- 📈 Power BI Dashboard Design
-- # 📱 Mobile Data Collection Toolkit – KoboCollect / ODK / SurveyCTO
+- 🎯 Monitoring, Evaluation, and Learning (MEL) – Field-tested workflows for USAID, GAVI, and WHO-funded programs
+- 📊 Data Analysis and Visualization – Clean and analyze field data with reproducible R and Python scripts
+- 🧪 Python for Data Science – Pandas-based cleaning, KPI automation, and custom dashboards
+- 📈 Power BI Dashboard Design – Dynamic visual reporting for real-time decision-making
+- 📱  Mobile Data Collection Toolkit – KoboCollect / ODK / SurveyCTO forms with skip logic and GPS integration
+- 🗄️ SQL– Data validation, aggregation, and performance monitoring scripts for relational databases
+- 📘 R – End-to-end scripts for cleaning, indicator generation, and data quality assessment 
 
 This repository contains reusable, customizable, and field-tested **XLSForms** and mobile data collection templates designed for use with **KoboCollect**, **ODK**, and **SurveyCTO** platforms. These tools support high-quality data gathering in humanitarian, development, health, and education sectors.
 
