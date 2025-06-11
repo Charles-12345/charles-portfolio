@@ -7,6 +7,21 @@ Welcome to my professional data portfolio! This repository showcases my work in:
 - 📊 Data Analysis and Visualization
 - 🧪 Python for Data Science
 - 📈 Power BI Dashboard Design
+- # 📱 Mobile Data Collection Toolkit – KoboCollect / ODK / SurveyCTO
+
+This repository contains reusable, customizable, and field-tested **XLSForms** and mobile data collection templates designed for use with **KoboCollect**, **ODK**, and **SurveyCTO** platforms. These tools support high-quality data gathering in humanitarian, development, health, and education sectors.
+
+## 🔍 Overview
+
+Mobile data collection enables rapid, accurate, and scalable data gathering from the field. This toolkit includes:
+
+- **Validated XLSForm templates** for household surveys, needs assessments, baseline/endline studies
+- Pre-coded skip logic, constraints, and validation rules
+- GPS, multimedia, barcode, and cascading selects integration
+- Sample Python/R scripts for cleaning, transformation, and export
+- Tools for syncing with **DHIS2**, **Power BI**, or **Stata/R/SPSS**
+
+## 📁 Folder Structure
 
 Each section below highlights real-world applications from my roles as an M&E Manager, Database Manager, and Data Analyst in humanitarian and development contexts.
 
